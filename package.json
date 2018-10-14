@@ -1,5 +1,5 @@
 {
-  "name": "react-express-mongodb-graphql",
+  "name": "react-express-mongoose-graphql",
   "version": "1.0.0",
   "description": "run yarn add",
   "main": "server.js",
