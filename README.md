@@ -1,6 +1,7 @@
 # React, Express, Mongoose, GraphQL
 
 ```
+rm -rf .git
 yarn add
 ```
 
