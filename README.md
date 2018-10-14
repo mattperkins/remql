@@ -2,6 +2,8 @@
 
 ```
 rm -rf .git
+```
+```
 yarn add
 ```
 
