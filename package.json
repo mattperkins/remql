@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^1.3.6",
+    "apollo-boost": "@latest",
+    "react-apollo": "@latest",
     "bcrypt": "^2.0.1",
     "body-parser": "^1.18.3",
     "concurrently": "^3.5.1",
